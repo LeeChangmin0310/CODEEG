@@ -1,4 +1,4 @@
-# CODDEG
+# CODEEG
 #### Neuro Engineering Project
 
 ## A Service that EEG-based ERP analysis to recommend personalized fashion coordination and virtually apply the outfits to user images. 
